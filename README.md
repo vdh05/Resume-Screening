@@ -58,9 +58,4 @@ Predicted Job Roles:
 - **Integrate with ATS:** Connect with Applicant Tracking Systems (ATS) for enterprise use.
 - **Web & Mobile App:** Develop a frontend for better user experience.
 
-## License
-This project is open-source under the **MIT License**.
-
----
-Feel free to contribute or reach out for improvements!
 
